@@ -1,0 +1,12 @@
+.place__image {
+    margin: 0;
+    grid-area: Image;
+    width: 100%;
+    /*padding: 0 0 -100%;*/
+}
+
+@media screen and (max-width: 765px) {
+    .place__image {
+        order: 3;
+    }
+}

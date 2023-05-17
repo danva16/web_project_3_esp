@@ -1,0 +1,22 @@
+.album {
+    margin: 92px 0 0;
+    max-width: 1184px;
+    max-height: 1812px;
+    display: grid;
+    grid-template: repeat(2, 1fr) / repeat(4, 1fr);
+    gap: 16px;
+}
+
+@media screen and (max-width: 1250px) {
+    .album {
+        margin: 64px 0 0;
+        grid-template: repeat(4, 1fr) / repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .album {
+        margin: 38px 0 0;
+        grid-template: repeat(8, 1fr) / 1fr;
+    }
+}

@@ -1,0 +1,26 @@
+.header__title {
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 104%;
+    text-align: center;
+    color: #fff;
+    max-width: 793px;
+    height: 200px;
+    margin: 90px 0 0;
+}
+
+@media screen and (max-width: 1250px) {
+    .header__title {
+        max-width: 720px;
+    }    
+}
+
+@media screen and (max-width: 765px) {
+    .header__title {
+        max-width: 288px;
+        height: 88px;
+        font-size: 40px;
+        line-height: 110%;
+        margin: 50.15px 0 0;
+    }    
+}

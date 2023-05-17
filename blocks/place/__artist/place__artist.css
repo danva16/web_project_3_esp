@@ -1,0 +1,19 @@
+.place__artist {
+    margin: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 122%;
+    width: 80%;
+}
+
+@media screen and (max-width: 1250px) {
+    .place__artist {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .place__artist {
+        width: 100%;
+    }
+}

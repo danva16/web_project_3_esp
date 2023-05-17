@@ -1,0 +1,31 @@
+.button {
+    margin: 0;
+    grid-area: Button;
+    width: 80%;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    background: #0278FE;
+    border-radius: 4px;
+    transition: background linear 0.5s;
+}
+
+.button:hover {
+    background: #0063d2;
+}
+
+@media screen and (max-width: 1250px) {
+    .button {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 765px) {
+    .button {
+        width: calc(100% - 32px);
+        order: 5;
+    }
+}

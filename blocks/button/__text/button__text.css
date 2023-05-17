@@ -1,0 +1,14 @@
+.button__text {
+    margin: 0;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 122%;
+    color: #ffffff;
+}
+
+@media screen and (max-width: 765px) {
+    .button__text {
+        font-size: 14px;
+        line-height: 121%;
+    }
+}
