@@ -1,4 +1,4 @@
-.quote__author {
+.about__author {
     margin: 0;
     width: 722px;
     height: 34px;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 765px) {
-    .quote__author {
+    .about__author {
         width: 100%;
     }
 }
