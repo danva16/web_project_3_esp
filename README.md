@@ -18,4 +18,4 @@ Tecnologías utilizadas:
 •Transiciones
 
 
-Puedes ver la página en funcionamiento aquí [→](https://danva16.github.io/web_project_3_esp/)
+Puedes ver la página en funcionamiento aquí  [➡️](https://danva16.github.io/web_project_3_esp/)
