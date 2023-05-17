@@ -3,7 +3,7 @@ Este es un proyecto que muestra las ciudades natales de algunos de los empleados
 
 Características
 
-Utiliza la propiedad display grid para la sección de las imágenes, permitiendo una disposición flexible y adaptable.
+ƣUtiliza la propiedad display grid para la sección de las imágenes, permitiendo una disposición flexible y adaptable.
 La página es responsiva, ajustándose a tres modelos de ancho de pantalla específicos: 1280px, 768px y 320px.
 Se han utilizado media queries para aplicar estilos específicos a cada modelo de ancho de pantalla.
 Seudoclases han sido utilizadas para aplicar estilos a elementos dentro de un bloque específico y asignar estilos particulares a elementos de un bloque.
