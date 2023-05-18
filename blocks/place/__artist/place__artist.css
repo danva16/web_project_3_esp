@@ -11,9 +11,3 @@
         width: 100%;
     }
 }
-
-@media screen and (max-width: 765px) {
-    .place__artist {
-        width: 100%;
-    }
-}
